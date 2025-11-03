@@ -20,7 +20,9 @@ The idea comes from my own paranoia and fear of losing my free-spirited shepsky,
 | **Mobile**         | Galaxy Android app for LoRa gateway, telemetry, and map visualization        | [mobile](https://github.com/BT-Radio-Advanced-Visual-Orchestration/mobile)     |
 | **Web Dashboard**  | React/Next.js dashboard at domain tbd                                        | [web](https://github.com/BT-Radio-Advanced-Visual-Orchestration/web)           |
 | **API**            | AWS Lambda / API Gateway endpoints for telemetry, OTA, and device management | [api](https://github.com/BT-Radio-Advanced-Visual-Orchestration/api)           |
-| **Infrastructure** | IaC stacks for AWS (IoT Core, DynamoDB, S3/CloudFront)                       | [infra](https://github.com/BT-Radio-Advanced-Visual-Orchestration/infra)       |
+| **Infrastructure**(private) | IaC stacks for AWS (IoT Core, DynamoDB, S3/CloudFront)              | [infra](https://github.com/BT-Radio-Advanced-Visual-Orchestration/infra)       |
+| **.gitub**         | organization wide workflows, templates, and more                             | [.github](https://github.com/BT-Radio-Advanced-Visual-Orchestration/.github)   |
+| **Documentation**  | to hold project wide documention like diagrams and procedures                | [docs](https://github.com/BT-Radio-Advanced-Visual-Orchestration/docs)         |
 
 
 ## 💖 Why Open Source
