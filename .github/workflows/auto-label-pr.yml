@@ -1,6 +1,7 @@
 # Auto-label Pull Requests workflow
 # This workflow automatically assigns labels to PRs based on the files changed
 # Helps with organization, filtering, and understanding the scope of changes at a glance
+# Labels are defined in .github/labels.yml
 
 name: Auto-label Pull Requests
 
